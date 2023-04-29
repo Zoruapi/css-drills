@@ -24,6 +24,7 @@ Build the HTML Structure
         · a: Add a link that says "Read More"
 
 Now, Lets style!
+
     Text and Body Styling
         1. Assign a global font family
             · Here is a list of some Web Safe Fonts: https://www.w3schools.com/cssref/css_websafe_fonts-asp
