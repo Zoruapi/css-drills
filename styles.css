@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(187, 187, 187);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    font: bold;
+    color: aqua;
+}
+
+span {
+    color: red;
+    font-weight: 900;
+}
