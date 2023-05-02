@@ -21,3 +21,92 @@ span {
     color: red;
     font-weight: 900;
 }
+
+.boxes {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    border: 5px;
+    border-color: blueviolet;
+    border-style: solid;
+    border-radius: 1em;
+    width: 30em;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: chocolate;
+    position: absolute;
+    margin-left: 7rem;
+}
+
+#box1 {
+    background-color: rgb(147, 228, 100);
+}
+
+#box2 {
+    background-color: rgb(100, 228, 200);
+    /*position: absolute;
+    margin: -16rem 0 0 34rem;*/
+}
+
+#box3 {
+    background-color: rgb(215, 228, 100);
+}
+
+#box4 {
+    background-color: rgb(228, 100, 190);
+}
+
+h1 {
+    color: rgb(64, 3, 121);
+}
+
+.original {
+    color:firebrick;
+}
+
+.additional {
+    color: magenta;
+}
+
+#show1 {
+    color: mediumpurple;
+}
+
+#show2 {
+    color:mediumaquamarine;
+}
+
+#show3 {
+    color:mediumspringgreen;
+}
+
+#show4 {
+    color:mediumvioletred;
+}
+
+#show5 {
+    color:mediumblue;
+}
+
+ul {
+    color:indigo;
+}
+
+.star {
+    color:olive;
+}
+
+#wars {
+    color: orangered;
+}
+
+.lists {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 11rem;
+}
